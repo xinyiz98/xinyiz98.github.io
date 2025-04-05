@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "plane.jpg"
   name             : "Xinyi Zhang"
-  pronouns         : # example: "she/her"  
-  bio              : "I am a PhD student at MIT in EECS advised by Prof. Caroline Uhler. My research aims at understanding cell state and tissue organization changes through utilizing multi-modal data, including both sequencing-based and image-based data at the single-cell and tissue level."
+  # pronouns         : # example: "she/her"  
+  # bio              : "I am a PhD student at MIT in EECS advised by Prof. Caroline Uhler. My research aims at understanding cell state and tissue organization changes through utilizing multi-modal data, including both sequencing-based and image-based data at the single-cell and tissue level."
 
   # # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
