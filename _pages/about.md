@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at MIT in EECS advised by Prof. Caroline Uhler. My research focuses on developing innovative machine-learning models that integrate multimodal data to achieve a comprehensive view of cell state and tissue organization across diseases and to identify cost-effective biomarkers, by leveraging theoretical advances in machine learning and causal inference.
+I will be joining AITHYRA in Vienna, Austria as a principle investigator. I completed my PhD in the EECS department at MIT, advised by Prof. Caroline Uhler. My research focuses on developing innovative machine-learning models that integrate multimodal data to achieve a comprehensive view of cell state and tissue organization across diseases and to identify cost-effective biomarkers, by leveraging theoretical advances in machine learning and causal inference.
 
 Publications
 ======
