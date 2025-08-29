@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I will be joining AITHYRA in Vienna, Austria as a principle investigator. I completed my PhD in the EECS department at MIT, advised by Prof. Caroline Uhler. My research focuses on developing innovative machine-learning models that integrate multimodal data to achieve a comprehensive view of cell state and tissue organization across diseases and to identify cost-effective biomarkers, by leveraging theoretical advances in machine learning and causal inference.
+I will be joining AITHYRA in Vienna, Austria as a principle investigator. I completed my PhD in the EECS department at MIT, advised by Prof. Caroline Uhler. Our group, in a highly interdisciplinary institute, offers exciting opportunities for innovations in machine learning methods to integrate multimodal and spatiotemporal data to achieve a holistic understanding of cell states, tissue microenvironments, and perturbation effects. The first call for PhD students is out, due September 10th: https://apply.cemm.at/. We also invite outstanding candidates to apply for postdoctoral research positions ([postdoc call](https://raw.githubusercontent.com/xinyiz98/xinyiz98.github.io/master/_pages/ZhangLab_AITHYRA.pdf)).
 
 Publications
 ======
