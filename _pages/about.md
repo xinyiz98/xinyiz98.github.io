@@ -12,11 +12,11 @@ I completed my PhD in the EECS department at MIT, advised by Prof. Caroline Uhle
 
 Group Members
 ======
-**Postdoc fellows**</p>
-Ruitong Li</p>
-**PhD students**</p>
-Alexis Molina</p>
-KinHei Lee</p>
+**Postdoc fellows**  
+Ruitong Li  
+**PhD students**  
+Alexis Molina  
+KinHei Lee
 
 Publications
 ======
