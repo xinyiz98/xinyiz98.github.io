@@ -13,7 +13,7 @@ title                    : "Xinyi Zhang"
 title_separator          : "-"
 name                     : &name "Xinyi Zhang"
 # description              : &description "personal description"
-url                      : https://xinyiz98.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://xinyizhang.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xinyiz98/xinyiz98.github.io"
 
