@@ -20,6 +20,19 @@ KinHei Lee
 
 Publications
 ======
+1. **Perturbation response decomposition enables biologically aligned generalization to unseen perturbations and cellular contexts.** Molina, A., Zhang, X., bioRxiv 2026. https://www.biorxiv.org/content/10.64898/2026.07.24.740459v1.
+   - <p style="font-size: 0.8em; margin-top: -10px;">Predicting single-cell responses to genetic perturbations remains a challenging task, especially for unseen perturbations and cellular contexts. We show that an important limitation in the development and evaluation of perturbation prediction models is the use of standard aggregate metrics, which do not distinguish the prediction of a generic transcriptional response shared across perturbations and cell lines from context-specific responses. It can therefore remain unclear whether failures of generalization reflect limitations of the model or information absent from its inputs. 
+
+   - We introduce a model-agnostic framework that decomposes transcriptional responses into:
+
+      - global response component shared across perturbations and cell lines
+      - perturbation-specific component conserved across cell lines
+      - cell-line-specific component conserved across perturbations
+      - perturbation-by-cell-line interaction component depending on both cell line and perturbation
+
+   - Across four CRISPRi Perturb-seq screens, we find that these components have distinct structures and information requirements. Guided by this framework, we develop simple response-aligned linear and multilayer perceptron (MLP) based models that outperform state-of-the-art architectures across several generalization settings, including unseen perturbations and unseen cell lines. 
+
+   - Our main takeaway: generalization depends primarily on matching biological information to the response component of interest, rather than on model complexity alone.
 1. **Partially Shared Multi-Modal Embedding Learns Holistic Representation of Cell State.** Zhang, X., Shivashankar, G. V. & Uhler, C., bioRxiv 2024, Nat. Computational Science 2026. https://github.com/uhlerlab/APOLLO/.
    - <p style="font-size: 0.8em; margin-top: -10px;">Using measurements with multiple modalities on the same cells, our method disentangles the shared information between different data modalities and information unique to a particular modality, which could lead to a better understanding of the underlying cellular regulatory mechanisms. We demonstrate that our model is a general framework with applications to paired scRNA-seq and scATAC-seq, paired scRNA-seq and surface protein data, as well as multiplexed imaging. We elucidated whether the activation of a particular genetic pathway is captured by scRNA-seq, scATAC-seq, or both and which morphological features of protein staining are also captured by chromatin staining. While causes of single-cell variations in protein subcellular localization are not well understood, our method is able to determine which cellular components are associated with the observed localization variations for a particular protein. Our model is a general framework that can be applied to any multi-modal data well beyond the single-cell domain including, for example, large-scale medical biobanks.
 1. **Prediction of protein subcellular localization in single cells.** Zhang, X.\*, Tseo Y.\*, Bai, Y., Chen, F., & Uhler, C., Nat. Methods 2025 (*: equal contribution). https://github.com/uhlerlab/PUPS.
